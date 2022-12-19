@@ -44,6 +44,11 @@ async function injectScript() {
 
 browser.runtime.onMessage.addListener(getStats);
 
+//to go to this url after copy stats
+let rogersStatsUrl = browser.tabs.query({
+    url: "https://www.processx.net/rogers/index.php?p=statistiques*",
+});
+
 document.addEventListener('click', function(event) {
     if (event.target.id == 'script-1') {
         injectScript();
@@ -65,7 +70,13 @@ document.addEventListener('click', function(event) {
                     else {
                         all_stats = all_stats.trimStart();
                         navigator.clipboard.writeText(all_stats);
-                        alert("ok !");
+
+                        rogersStatsUrl.then(function(value) {
+                            let index = value[0].index;
+                            browser.tabs.highlight({
+                                tabs: [index],
+                            });
+                        })
                         browser.tabs.onUpdated.removeListener();
                     }
                 };

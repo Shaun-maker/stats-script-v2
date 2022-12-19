@@ -1,0 +1,19 @@
+Ce que doit faire le script :
+
+- Quand on clique sur le bouton "Script 1" :
+    - Prendre le contenu html de cette page
+    - Le stocker dans une variable, puis dans un fichier externe.
+
+
+
+Au lancement du script 1, copier tout les contenus des stats processx dans une variable, puis dans un fichier ?
+
+TODO :
+Après avoir incrémentée l'url, updater l'url courante plutôt que de l'ouvrir dans un nouvel onglet (si possible);
+
+-> Regarder à nouveau comment ne pas executer deux fois le script (beastify)
+
+Réussi à récupérer les données d'une promise pour l'utiliser dans une autre fonction
+uniquement avec une variable globale.
+
+Attendre que la page se charge avec des setTimeout : Il y a certainement une meilleure manière de faire

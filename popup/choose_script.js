@@ -1,6 +1,8 @@
 var all_stats = "";
 var url = "";
 var numberOfExec = 0;
+let cpyStats = "/content_scripts/cpy_stats.js";
+let rogersStats = "/content_scripts/rogers_stats.js";
 
 /* navigator.clipboard.writeText(stats); */
 
@@ -38,8 +40,8 @@ async function getPage() {
     })
 }
 
-async function injectScript() {
-    await browser.tabs.executeScript({file: "/content_scripts/cpy_stats.js"});   
+async function injectScript(fileUrl) {
+    await browser.tabs.executeScript({file: fileUrl});   
 }
 
 browser.runtime.onMessage.addListener(getStats);
@@ -51,7 +53,7 @@ let rogersStatsUrl = browser.tabs.query({
 
 document.addEventListener('click', function(event) {
     if (event.target.id == 'script-1') {
-        injectScript();
+        injectScript(cpyStats);
         getPage()
         .then(function() {
             updatePage(url);
@@ -61,7 +63,7 @@ document.addEventListener('click', function(event) {
                 if (changeInfo.status == "complete") {
                     numberOfExec++;
                     if (numberOfExec < 5) {
-                        injectScript();
+                        injectScript(cpyStats);
                         getPage()
                         .then(function() {
                             updatePage(url);
@@ -73,10 +75,17 @@ document.addEventListener('click', function(event) {
 
                         rogersStatsUrl.then(function(value) {
                             let index = value[0].index;
+                            let tabId = value[0].id;
                             browser.tabs.highlight({
                                 tabs: [index],
+                            })
+                            .then(function(){
+                                injectScript(rogersStats)
+                                .then(function() {
+                                    browser.tabs.sendMessage(tabId, all_stats); // error
+                                })
                             });
-                        })
+                        });
                         browser.tabs.onUpdated.removeListener();
                     }
                 };

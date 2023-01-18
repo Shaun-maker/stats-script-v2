@@ -1,0 +1,315 @@
+<a href="assets/image/museum-gallery/020.jpg" title="Bols à raser 1" data-fancybox="gallery" data-caption="Bols à raser 1">
+    <img src="assets/image/museum-gallery/thumbnails/020.jpg">
+</a>
+<a href="assets/image/museum-gallery/021.jpg" title="Bols à raser 2" data-fancybox="gallery" data-caption="Bols à raser 2">
+    <img src="assets/image/museum-gallery/thumbnails/021.jpg">
+</a>
+<a href="assets/image/museum-gallery/022.jpg" title="Bougies de brûlage" data-fancybox="gallery" data-caption="Bougies de brûlage">
+    <img src="assets/image/museum-gallery/thumbnails/022.jpg">
+</a>
+<a href="assets/image/museum-gallery/023.jpg" title="Brillantine Hair Oil lavande Forvil avec un diffuseur ROJA" data-fancybox="gallery" data-caption="Brillantine Hair Oil lavande Forvil avec un diffuseur ROJA">
+    <img src="assets/image/museum-gallery/thumbnails/023.jpg">
+</a>
+<a href="assets/image/museum-gallery/024.jpg" title="Brillantine ROJA FLORE Bouquet de Fleurs flacon représenté avec son diffuseur" data-fancybox="gallery" data-caption="Brillantine ROJA FLORE Bouquet de Fleurs flacon représenté avec son diffuseur">
+    <img src="assets/image/museum-gallery/thumbnails/024.jpg">
+</a>
+<a href="assets/image/museum-gallery/025.jpg" title="Brosse à raser pur blaireau soie de porc" data-fancybox="gallery" data-caption="Brosse à raser pur blaireau soie de porc">
+    <img src="assets/image/museum-gallery/thumbnails/025.jpg">
+</a>
+<a href="assets/image/museum-gallery/026.jpg" title="Calendrier parfumé offert par les coiffeurs Maison BOURJOIS année 1971" data-fancybox="gallery" data-caption="Calendrier parfumé offert par les coiffeurs Maison BOURJOIS année 1971">
+    <img src="assets/image/museum-gallery/thumbnails/026.jpg">
+</a>
+<a href="assets/image/museum-gallery/027.jpg" title="Casque de séchage BEAUTEX" data-fancybox="gallery" data-caption="Casque de séchage BEAUTEX">
+    <img src="assets/image/museum-gallery/thumbnails/027.jpg">
+</a>
+<a href="assets/image/museum-gallery/028.jpg" title="Casque de séchage PARAMOUNT" data-fancybox="gallery" data-caption="Casque de séchage PARAMOUNT">
+    <img src="assets/image/museum-gallery/thumbnails/028.jpg">
+</a>
+<a href="assets/image/museum-gallery/029.jpg" title="Casque de séchage PERMA modèle Clipper" data-fancybox="gallery" data-caption="Casque de séchage PERMA modèle Clipper">
+    <img src="assets/image/museum-gallery/thumbnails/029.jpg">
+</a>
+<a href="assets/image/museum-gallery/030.jpg" title="Chauffe-fer à onduler - fonctionne à l'alcool" data-fancybox="gallery" data-caption="Chauffe-fer à onduler - fonctionne à l'alcool">
+    <img src="assets/image/museum-gallery/thumbnails/030.jpg">
+</a>
+<a href="assets/image/museum-gallery/031.jpg" title="Distributeur de col de crêpe HALKRA avec rouleaux de rechange" data-fancybox="gallery" data-caption="Distributeur de col de crêpe HALKRA avec rouleaux de rechange">
+    <img src="assets/image/museum-gallery/thumbnails/031.jpg">
+</a>
+<a href="assets/image/museum-gallery/032.jpg" title="Cuirs 2 faces Poulain et aloes Veau et aloes " data-fancybox="gallery" data-caption="Cuirs 2 faces Poulain et aloes Veau et aloes ">
+    <img src="assets/image/museum-gallery/thumbnails/032.jpg">
+</a>
+<a href="assets/image/museum-gallery/033.jpg" title="Cuir à rasoir GESETZL GESCHUTZT" data-fancybox="gallery" data-caption="Cuir à rasoir GESETZL GESCHUTZT">
+    <img src="assets/image/museum-gallery/thumbnails/033.jpg">
+</a>
+<a href="assets/image/museum-gallery/034.jpg" title="Cuir croute sur feutre et poulain sur feutre Cuir tendeur 2 côtés cuir" data-fancybox="gallery" data-caption="Cuir croute sur feutre et poulain sur feutre Cuir tendeur 2 côtés cuir">
+    <img src="assets/image/museum-gallery/thumbnails/034.jpg">
+</a>
+<a href="assets/image/museum-gallery/035.jpg" title="Cuir peau de lapin Cuir veau et poulin" data-fancybox="gallery" data-caption="Cuir peau de lapin Cuir veau et poulin">
+    <img src="assets/image/museum-gallery/thumbnails/035.jpg">
+</a>
+<a href="assets/image/museum-gallery/036.jpg" title="Eau de Cologne senteur Fougère Fraîche Lavande" data-fancybox="gallery" data-caption="Eau de Cologne senteur Fougère Fraîche Lavande">
+    <img src="assets/image/museum-gallery/thumbnails/036.jpg">
+</a>
+<a href="assets/image/museum-gallery/037.jpg" title="Eau de Cologne g.lenné oeillet" data-fancybox="gallery" data-caption="Eau de Cologne g.lenné oeillet">
+    <img src="assets/image/museum-gallery/thumbnails/037.jpg">
+</a>
+<a href="assets/image/museum-gallery/038.jpg" title="Épingles à chignons" data-fancybox="gallery" data-caption="Épingles à chignons">
+    <img src="assets/image/museum-gallery/thumbnails/038.jpg">
+</a>
+<a href="assets/image/museum-gallery/039.jpg" title="Essuie rasoir en caoutchouc" data-fancybox="gallery" data-caption="Essuie rasoir en caoutchouc">
+    <img src="assets/image/museum-gallery/thumbnails/039.jpg">
+</a>
+<a href="assets/image/museum-gallery/040.jpg" title="Essuie rasoir The Antiseptic RAZOR WIPER" data-fancybox="gallery" data-caption="Essuie rasoir The Antiseptic RAZOR WIPER">
+    <img src="assets/image/museum-gallery/thumbnails/040.jpg">
+</a>
+<a href="assets/image/museum-gallery/041.jpg" title="Étuis pour lames de rasoir en métal chromé" data-fancybox="gallery" data-caption="Étuis pour lames de rasoir en métal chromé">
+    <img src="assets/image/museum-gallery/thumbnails/041.jpg">
+</a>
+<a href="assets/image/museum-gallery/042.jpg" title="Fauteuil de coiffeur dames revêtement skaï avec motif damassé" data-fancybox="gallery" data-caption="Fauteuil de coiffeur dames revêtement skaï avec motif damassé">
+    <img src="assets/image/museum-gallery/thumbnails/042.jpg">
+</a>
+<a href="assets/image/museum-gallery/043.jpg" title="Fauteuil de coiffeur époque début 20e" data-fancybox="gallery" data-caption="Fauteuil de coiffeur époque début 20e">
+    <img src="assets/image/museum-gallery/thumbnails/043.jpg">
+</a>
+<a href="assets/image/museum-gallery/044.jpg" title="Fauteuil de coiffure dames époque 1960" data-fancybox="gallery" data-caption="Fauteuil de coiffure dames époque 1960">
+    <img src="assets/image/museum-gallery/thumbnails/044.jpg">
+</a>
+<a href="assets/image/museum-gallery/045.jpg" title="Fauteuil de barbier en bois, époque fin 19e début 20e" data-fancybox="gallery" data-caption="Fauteuil de barbier en bois, époque fin 19e début 20e">
+    <img src="assets/image/museum-gallery/thumbnails/045.jpg">
+</a>
+<a href="assets/image/museum-gallery/046.jpg" title="Fauteuil de barbier vu de trois quart" data-fancybox="gallery" data-caption="Fauteuil de barbier vu de trois quart">
+    <img src="assets/image/museum-gallery/thumbnails/046.jpg">
+</a>
+<a href="assets/image/museum-gallery/047.jpg" title="Fauteuil de barbier vu de profil" data-fancybox="gallery" data-caption="Fauteuil de barbier vu de profil">
+    <img src="assets/image/museum-gallery/thumbnails/047.jpg">
+</a>
+<a href="assets/image/museum-gallery/048.jpg" title="Fauteuil de barbier représentée en position inclinée" data-fancybox="gallery" data-caption="Fauteuil de barbier représentée en position inclinée">
+    <img src="assets/image/museum-gallery/thumbnails/048.jpg">
+</a>
+<a href="assets/image/museum-gallery/049.jpg" title="Fers à onduler" data-fancybox="gallery" data-caption="Fers à onduler">
+    <img src="assets/image/museum-gallery/thumbnails/049.jpg">
+</a>
+<a href="assets/image/museum-gallery/050.jpg" title="Gel CADORICIN Azure Composition huile cadoricin vitamine F huile de ricin" data-fancybox="gallery" data-caption="Gel CADORICIN Azure Composition huile cadoricin vitamine F huile de ricin">
+    <img src="assets/image/museum-gallery/thumbnails/050.jpg">
+</a>
+<a href="assets/image/museum-gallery/051.jpg" title="Gel CADORICIN Doré composition huile cadoricin vitamine F cholesterol huile de ricin" data-fancybox="gallery" data-caption="Gel CADORICIN Doré composition huile cadoricin vitamine F cholesterol huile de ricin">
+    <img src="assets/image/museum-gallery/thumbnails/051.jpg">
+</a>
+<a href="assets/image/museum-gallery/052.jpg" title="Glace miroir trois volets" data-fancybox="gallery" data-caption="Glace miroir trois volets">
+    <img src="assets/image/museum-gallery/thumbnails/052.jpg">
+</a>
+<a href="assets/image/museum-gallery/053.jpg" title="Hydrocaps" data-fancybox="gallery" data-caption="Hydrocaps">
+    <img src="assets/image/museum-gallery/thumbnails/053.jpg">
+</a>
+<a href="assets/image/museum-gallery/054.jpg" title="Lame de rasoir Blue GILETTE Blade made in France " data-fancybox="gallery" data-caption="Lame de rasoir Blue GILETTE Blade made in France ">
+    <img src="assets/image/museum-gallery/thumbnails/054.jpg">
+</a>
+<a href="assets/image/museum-gallery/055.jpg" title="Lame de rasoir ELECTRA THOMSON fabriqué en France" data-fancybox="gallery" data-caption="Lame de rasoir ELECTRA THOMSON fabriqué en France">
+    <img src="assets/image/museum-gallery/thumbnails/055.jpg">
+</a>
+<a href="assets/image/museum-gallery/056.jpg" title="Lame de rasoir GIBBS fabrication française" data-fancybox="gallery" data-caption="Lame de rasoir GIBBS fabrication française">
+    <img src="assets/image/museum-gallery/thumbnails/056.jpg">
+</a>
+<a href="assets/image/museum-gallery/057.jpg" title="Lame de rasoir GILETTE blue fabrication française" data-fancybox="gallery" data-caption="Lame de rasoir GILETTE blue fabrication française">
+    <img src="assets/image/museum-gallery/thumbnails/057.jpg">
+</a>
+<a href="assets/image/museum-gallery/058.jpg" title="Lame de rasoir GILETTE Mince fabrication française" data-fancybox="gallery" data-caption="Lame de rasoir GILETTE Mince fabrication française">
+    <img src="assets/image/museum-gallery/thumbnails/058.jpg">
+</a>
+<a href="assets/image/museum-gallery/059.jpg" title="Lame de rasoir LERESCHE au chrome UNIS FRANCE fabrication française" data-fancybox="gallery" data-caption="Lame de rasoir LERESCHE au chrome UNIS FRANCE fabrication française">
+    <img src="assets/image/museum-gallery/thumbnails/059.jpg">
+</a>
+<a href="assets/image/museum-gallery/060.jpg" title="Lame de rasoir SHAVEESL Soutern &amp; Richarson Sheffiels England" data-fancybox="gallery" data-caption="Lame de rasoir SHAVEESL Soutern &amp; Richarson Sheffiels England">
+    <img src="assets/image/museum-gallery/thumbnails/060.jpg">
+</a>
+<a href="assets/image/museum-gallery/061.jpg" title="Lame de rasoir Thin GILETTE Blade Swiss made" data-fancybox="gallery" data-caption="Lame de rasoir Thin GILETTE Blade Swiss made">
+    <img src="assets/image/museum-gallery/thumbnails/061.jpg">
+</a>
+<a href="assets/image/museum-gallery/062.jpg" title="Lame de rasoir GILLETTE Blue Extra" data-fancybox="gallery" data-caption="Lame de rasoir GILLETTE Blue Extra">
+    <img src="assets/image/museum-gallery/thumbnails/062.jpg">
+</a>
+<a href="assets/image/museum-gallery/063.jpg" title="Lave-tête en aluminium" data-fancybox="gallery" data-caption="Lave-tête en aluminium">
+    <img src="assets/image/museum-gallery/thumbnails/063.jpg">
+</a>
+<a href="assets/image/museum-gallery/064.jpg" title="Lave-tête" data-fancybox="gallery" data-caption="Lave-tête">
+    <img src="assets/image/museum-gallery/thumbnails/064.jpg">
+</a>
+<a href="assets/image/museum-gallery/065.jpg" title="Lave-tête sur pied" data-fancybox="gallery" data-caption="Lave-tête sur pied">
+    <img src="assets/image/museum-gallery/thumbnails/065.jpg">
+</a>
+<a href="assets/image/museum-gallery/066.jpg" title="Lave-tête de déplacement" data-fancybox="gallery" data-caption="Lave-tête de déplacement">
+    <img src="assets/image/museum-gallery/thumbnails/066.jpg">
+</a>
+<a href="assets/image/museum-gallery/067.jpg" title="Minuteur pour commander l'alimentation électrique d'un casque de séchage" data-fancybox="gallery" data-caption="Minuteur pour commander l'alimentation électrique d'un casque de séchage">
+    <img src="assets/image/museum-gallery/thumbnails/067.jpg">
+</a>
+<a href="assets/image/museum-gallery/068.jpg" title="Nécessaire à raser" data-fancybox="gallery" data-caption="Nécessaire à raser">
+    <img src="assets/image/museum-gallery/thumbnails/068.jpg">
+</a>
+<a href="assets/image/museum-gallery/069.jpg" title="Nécessaire à raser de voyage dans trousse en cuir, avec flacon d'eau de toilette, tube de savon à barbe, rasoir mecanique et blaireau pliables" data-fancybox="gallery" data-caption="Nécessaire à raser de voyage dans trousse en cuir, avec flacon d'eau de toilette, tube de savon à barbe, rasoir mecanique et blaireau pliables">
+    <img src="assets/image/museum-gallery/thumbnails/069.jpg">
+</a>
+<a href="assets/image/museum-gallery/070.jpg" title="Nécessaire à raser fauteuil de barbier" data-fancybox="gallery" data-caption="Nécessaire à raser fauteuil de barbier">
+    <img src="assets/image/museum-gallery/thumbnails/070.jpg">
+</a>
+<a href="assets/image/museum-gallery/071.jpg" title="Outillage de coiffeur a domicile matériel de fabrication artisanale" data-fancybox="gallery" data-caption="Outillage de coiffeur a domicile matériel de fabrication artisanale">
+    <img src="assets/image/museum-gallery/thumbnails/071.jpg">
+</a>
+<a href="assets/image/museum-gallery/072.jpg" title="Paires de ciseaux" data-fancybox="gallery" data-caption="Paires de ciseaux">
+    <img src="assets/image/museum-gallery/thumbnails/072.jpg">
+</a>
+<a href="assets/image/museum-gallery/073.jpg" title="Pâte à rasoirs" data-fancybox="gallery" data-caption="Pâte à rasoirs">
+    <img src="assets/image/museum-gallery/thumbnails/073.jpg">
+</a>
+<a href="assets/image/museum-gallery/074.jpg" title="Peigne en corne véritable" data-fancybox="gallery" data-caption="Peigne en corne véritable">
+    <img src="assets/image/museum-gallery/thumbnails/074.jpg">
+</a>
+<a href="assets/image/museum-gallery/075.jpg" title="Cadeau de fournisseur presse-papier, réalisé avec un peigne afro monté sur un socle en bois" data-fancybox="gallery" data-caption="Cadeau de fournisseur presse-papier, réalisé avec un peigne afro monté sur un socle en bois">
+    <img src="assets/image/museum-gallery/thumbnails/075.jpg">
+</a>
+<a href="assets/image/museum-gallery/076.jpg" title="Peignes en PVC : peigne demeloir, peigne de mise en plis, peigne de coupe, peigne de poche" data-fancybox="gallery" data-caption="Peignes en PVC : peigne demeloir, peigne de mise en plis, peigne de coupe, peigne de poche">
+    <img src="assets/image/museum-gallery/thumbnails/076.jpg">
+</a>
+<a href="assets/image/museum-gallery/077.jpg" title="Peignes spéciaux : peigne effileur, peigne à queue, aiguille metal, peigne fourchette" data-fancybox="gallery" data-caption="Peignes spéciaux : peigne effileur, peigne à queue, aiguille metal, peigne fourchette">
+    <img src="assets/image/museum-gallery/thumbnails/077.jpg">
+</a>
+<a href="assets/image/museum-gallery/078.jpg" title="Peignes américains" data-fancybox="gallery" data-caption="Peignes américains">
+    <img src="assets/image/museum-gallery/thumbnails/078.jpg">
+</a>
+<a href="assets/image/museum-gallery/079.jpg" title="Peignoir en coton" data-fancybox="gallery" data-caption="Peignoir en coton">
+    <img src="assets/image/museum-gallery/thumbnails/079.jpg">
+</a>
+<a href="assets/image/museum-gallery/080.jpg" title="Pics en métal" data-fancybox="gallery" data-caption="Pics en métal">
+    <img src="assets/image/museum-gallery/thumbnails/080.jpg">
+</a>
+<a href="assets/image/museum-gallery/081.jpg" title="Pics en plastique" data-fancybox="gallery" data-caption="Pics en plastique">
+    <img src="assets/image/museum-gallery/thumbnails/081.jpg">
+</a>
+<a href="assets/image/museum-gallery/082.jpg" title="Pierre d'alun BLOC OSMA hémostatique" data-fancybox="gallery" data-caption="Pierre d'alun BLOC OSMA hémostatique">
+    <img src="assets/image/museum-gallery/thumbnails/082.jpg">
+</a>
+<a href="assets/image/museum-gallery/083.jpg" title="Pierres à aiguiser les rasoirs" data-fancybox="gallery" data-caption="Pierres à aiguiser les rasoirs">
+    <img src="assets/image/museum-gallery/thumbnails/083.jpg">
+</a>
+<a href="assets/image/museum-gallery/084.jpg" title="Pinces fixe-mèches, en aluminium et en acier galvanisé" data-fancybox="gallery" data-caption="Pinces fixe-mèches, en aluminium et en acier galvanisé">
+    <img src="assets/image/museum-gallery/thumbnails/084.jpg">
+</a>
+<a href="assets/image/museum-gallery/085.jpg" title="Pinces guiche" data-fancybox="gallery" data-caption="Pinces guiche">
+    <img src="assets/image/museum-gallery/thumbnails/085.jpg">
+</a>
+<a href="assets/image/museum-gallery/086.jpg" title="Pinces sépare-mèche (3 premières) Pinces mise en plis (13 suivantes) métal chromé et aluminium" data-fancybox="gallery" data-caption="Pinces sépare-mèche (3 premières) Pinces mise en plis (13 suivantes) métal chromé et aluminium">
+    <img src="assets/image/museum-gallery/thumbnails/086.jpg">
+</a>
+<a href="assets/image/museum-gallery/087.jpg" title="Pots à talc" data-fancybox="gallery" data-caption="Pots à talc">
+    <img src="assets/image/museum-gallery/thumbnails/087.jpg">
+</a>
+<a href="assets/image/museum-gallery/088.jpg" title="Présentoire a lames de rasoir GILETTE" data-fancybox="gallery" data-caption="Présentoire a lames de rasoir GILETTE">
+    <img src="assets/image/museum-gallery/thumbnails/088.jpg">
+</a>
+<a href="assets/image/museum-gallery/089.jpg" title="Présentoir à teinture pour cheveux IMMEDIA" data-fancybox="gallery" data-caption="Présentoir à teinture pour cheveux IMMEDIA">
+    <img src="assets/image/museum-gallery/thumbnails/089.jpg">
+</a>
+<a href="assets/image/museum-gallery/090.jpg" title="Publicité Setting Form MAGiC" data-fancybox="gallery" data-caption="Publicité Setting Form MAGiC">
+    <img src="assets/image/museum-gallery/thumbnails/090.jpg">
+</a>
+<a href="assets/image/museum-gallery/091.jpg" title="Rasoirs à barbe : à manche aluminium, rasoirs Le Grelot, Thiers France, Carl Rader Solingen, l'Auvergnat, The Starter Delorme Paris" data-fancybox="gallery" data-caption="Rasoirs à barbe : à manche aluminium, rasoirs Le Grelot, Thiers France, Carl Rader Solingen, l'Auvergnat, The Starter Delorme Paris">
+    <img src="assets/image/museum-gallery/thumbnails/091.jpg">
+</a>
+<a href="assets/image/museum-gallery/092.jpg" title="Rasoirs mécaniques" data-fancybox="gallery" data-caption="Rasoirs mécaniques">
+    <img src="assets/image/museum-gallery/thumbnails/092.jpg">
+</a>
+<a href="assets/image/museum-gallery/093.jpg" title="Rouleaux indéformables, avec brosse et sans brosse, pour mise en plis" data-fancybox="gallery" data-caption="Rouleaux indéformables, avec brosse et sans brosse, pour mise en plis">
+    <img src="assets/image/museum-gallery/thumbnails/093.jpg">
+</a>
+<a href="assets/image/museum-gallery/094.jpg" title="Rouleau en mousse pour mise en plis" data-fancybox="gallery" data-caption="Rouleau en mousse pour mise en plis">
+    <img src="assets/image/museum-gallery/thumbnails/094.jpg">
+</a>
+<a href="assets/image/museum-gallery/095.jpg" title="Sèche cheveux BABYLISS Professionnel" data-fancybox="gallery" data-caption="Sèche cheveux BABYLISS Professionnel">
+    <img src="assets/image/museum-gallery/thumbnails/095.jpg">
+</a>
+<a href="assets/image/museum-gallery/096.jpg" title="Serviette en coton blanc pour rasage à l'ancienne" data-fancybox="gallery" data-caption="Serviette en coton blanc pour rasage à l'ancienne">
+    <img src="assets/image/museum-gallery/thumbnails/096.jpg">
+</a>
+<a href="assets/image/museum-gallery/097.jpg" title="Serviette éponge" data-fancybox="gallery" data-caption="Serviette éponge">
+    <img src="assets/image/museum-gallery/thumbnails/097.jpg">
+</a>
+<a href="assets/image/museum-gallery/098.jpg" title="Siège enfant crochets métaliques assise bois et cannage" data-fancybox="gallery" data-caption="Siège enfant crochets métaliques assise bois et cannage">
+    <img src="assets/image/museum-gallery/thumbnails/098.jpg">
+</a>
+<a href="assets/image/museum-gallery/099.jpg" title="Siège enfant revêtement skaï" data-fancybox="gallery" data-caption="Siège enfant revêtement skaï">
+    <img src="assets/image/museum-gallery/thumbnails/099.jpg">
+</a>
+<a href="assets/image/museum-gallery/100.jpg" title="Stérilisateur germicide STERYL-BOX WELLA" data-fancybox="gallery" data-caption="Stérilisateur germicide STERYL-BOX WELLA">
+    <img src="assets/image/museum-gallery/thumbnails/100.jpg">
+</a>
+<a href="assets/image/museum-gallery/101.jpg" title="Sterilisateur à alcool" data-fancybox="gallery" data-caption="Sterilisateur à alcool">
+    <img src="assets/image/museum-gallery/thumbnails/101.jpg">
+</a>
+<a href="assets/image/museum-gallery/102.jpg" title="Sterilisateur germicide STERIBLOC" data-fancybox="gallery" data-caption="Sterilisateur germicide STERIBLOC">
+    <img src="assets/image/museum-gallery/thumbnails/102.jpg">
+</a>
+<a href="assets/image/museum-gallery/103.jpg" title="Tête d'apprentissage" data-fancybox="gallery" data-caption="Tête d'apprentissage">
+    <img src="assets/image/museum-gallery/thumbnails/103.jpg">
+</a>
+<a href="assets/image/museum-gallery/104.jpg" title="Tondeuse à vibreur FAMEX fabrication Allemande" data-fancybox="gallery" data-caption="Tondeuse à vibreur FAMEX fabrication Allemande">
+    <img src="assets/image/museum-gallery/thumbnails/104.jpg">
+</a>
+<a href="assets/image/museum-gallery/105.jpg" title="Tondeuse à vibreur HAIR CUT fabrication Allemande" data-fancybox="gallery" data-caption="Tondeuse à vibreur HAIR CUT fabrication Allemande">
+    <img src="assets/image/museum-gallery/thumbnails/105.jpg">
+</a>
+<a href="assets/image/museum-gallery/106.jpg" title="Tondeuse à vibreur OSTER fabrication allemande" data-fancybox="gallery" data-caption="Tondeuse à vibreur OSTER fabrication allemande">
+    <img src="assets/image/museum-gallery/thumbnails/106.jpg">
+</a>
+<a href="assets/image/museum-gallery/107.jpg" title="Tondeuse à vibreur REMINGTON" data-fancybox="gallery" data-caption="Tondeuse à vibreur REMINGTON">
+    <img src="assets/image/museum-gallery/thumbnails/107.jpg">
+</a>
+<a href="assets/image/museum-gallery/108.jpg" title="Tondeuse à moteur AESCULAP fabrication allemande" data-fancybox="gallery" data-caption="Tondeuse à moteur AESCULAP fabrication allemande">
+    <img src="assets/image/museum-gallery/thumbnails/108.jpg">
+</a>
+<a href="assets/image/museum-gallery/109.jpg" title="Tondeuse à moteur KOMET Made in Germany" data-fancybox="gallery" data-caption="Tondeuse à moteur KOMET Made in Germany">
+    <img src="assets/image/museum-gallery/thumbnails/109.jpg">
+</a>
+<a href="assets/image/museum-gallery/110.jpg" title="Tondeuse à moteur Koh-i-noor electrique 2" data-fancybox="gallery" data-caption="Tondeuse à moteur Koh-i-noor electrique 2">
+    <img src="assets/image/museum-gallery/thumbnails/110.jpg">
+</a>
+<a href="assets/image/museum-gallery/111.jpg" title="Tondeuses à main" data-fancybox="gallery" data-caption="Tondeuses à main">
+    <img src="assets/image/museum-gallery/thumbnails/111.jpg">
+</a>
+<a href="assets/image/museum-gallery/112.jpg" title="Vaporisateur à alcool" data-fancybox="gallery" data-caption="Vaporisateur à alcool">
+    <img src="assets/image/museum-gallery/thumbnails/112.jpg">
+</a>
+<a href="assets/image/museum-gallery/113.jpg" title="Vaporisateur à parfum Eau de Carlier" data-fancybox="gallery" data-caption="Vaporisateur à parfum Eau de Carlier">
+    <img src="assets/image/museum-gallery/thumbnails/113.jpg">
+</a>
+<a href="assets/image/museum-gallery/114.jpg" title="Vaporisateurs à alcool" data-fancybox="gallery" data-caption="Vaporisateurs à alcool">
+    <img src="assets/image/museum-gallery/thumbnails/114.jpg">
+</a>
+<a href="assets/image/museum-gallery/115.jpg" title="Vase à shampoing" data-fancybox="gallery" data-caption="Vase à shampoing">
+    <img src="assets/image/museum-gallery/thumbnails/115.jpg">
+</a>
+<a href="assets/image/museum-gallery/116.jpg" title="Voilette pour mise en plis" data-fancybox="gallery" data-caption="Voilette pour mise en plis">
+    <img src="assets/image/museum-gallery/thumbnails/116.jpg">
+</a>
+<a href="assets/image/museum-gallery/117.jpg" title="Vaporisateur diffuseur de talc" data-fancybox="gallery" data-caption="Vaporisateur diffuseur de talc">
+    <img src="assets/image/museum-gallery/thumbnails/117.jpg">
+</a>
+<a href="assets/image/museum-gallery/118.jpg" title="Le monde Fétichiste et le rasage" data-fancybox="gallery" data-caption="Le monde Fétichiste et le rasage">
+    <img src="assets/image/museum-gallery/thumbnails/118.jpg">
+</a>
+<a href="assets/image/museum-gallery/119.jpg" title="Publicité - La coiffure branchée chez Babyliss" data-fancybox="gallery" data-caption="Publicité - La coiffure branchée chez Babyliss">
+    <img src="assets/image/museum-gallery/thumbnails/119.jpg">
+</a>
+<a href="assets/image/museum-gallery/120.jpg" title="Publicité - La coiffure rapide chez Wilkinson" data-fancybox="gallery" data-caption="Publicité - La coiffure rapide chez Wilkinson">
+    <img src="assets/image/museum-gallery/thumbnails/120.jpg">
+</a>
+<a href="assets/image/museum-gallery/121.jpg" title="Publicité - La coiffure et le sport chez Wilkinson" data-fancybox="gallery" data-caption="Publicité - La coiffure et le sport chez Wilkinson">
+    <img src="assets/image/museum-gallery/thumbnails/121.jpg">
+</a>
+<a href="assets/image/museum-gallery/122.jpg" title="Publicité - Europcar Location de voiture" data-fancybox="gallery" data-caption="Publicité - Europcar Location de voiture">
+    <img src="assets/image/museum-gallery/thumbnails/122.jpg">
+</a>
+<a href="assets/image/museum-gallery/123.jpg" title="Publicité - Europcar Location de voiture" data-fancybox="gallery" data-caption="Publicité - Europcar Location de voiture">
+    <img src="assets/image/museum-gallery/thumbnails/123.jpg">
+</a>
+<a href="assets/image/museum-gallery/124.jpg" title="Publicité - David Beckham et le Gilette M3 Power Mach3" data-fancybox="gallery" data-caption="Publicité - David Beckham et le Gilette M3 Power Mach3">
+    <img src="assets/image/museum-gallery/thumbnails/124.jpg">
+</a>

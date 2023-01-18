@@ -3,6 +3,7 @@ var url = "";
 var numberOfExec = 0;
 let cpyStats = "/content_scripts/cpy_stats.js";
 let rogersStats = "/content_scripts/rogers_stats.js";
+let cpyTitleFauteuilBarbier = "/content_scripts/cpy_title_fauteuil_barbier.js";
 
 /* navigator.clipboard.writeText(stats); */
 
@@ -95,5 +96,8 @@ document.addEventListener('click', function(event) {
             console.log("Une erreur s'est produite sur l'execution principale de code.");
             console.log(err);
         });
+    }
+    else if (event.target.id == 'script-2') {
+        injectScript(cpyTitleFauteuilBarbier);
     }
 });

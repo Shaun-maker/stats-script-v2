@@ -17,5 +17,11 @@
         "default_icon": "icons/list-simple-7.png",
         "default_title": "Script test",
         "default_popup": "popup/choose_script.html"
+    },
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "axel@processx.fr"
+        }
     }
 }
